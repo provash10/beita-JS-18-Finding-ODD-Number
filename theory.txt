@@ -1,0 +1,11 @@
+##Class Js 18 Finding ODD Number
+
+###For loop
+var i;
+for ( i = 1; i<= 9; i++){
+    console.log(i);
+}
+
+
+###Finding ODD Number
+
